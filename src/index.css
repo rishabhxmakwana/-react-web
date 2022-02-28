@@ -29,11 +29,15 @@
   color: #3498db ;
 }
 
+/* Heading */
+
 #header {
   width: 100%;
   height: 80vh;
   margin-top: 40px;
 }
+
+/* Main Header */
 
 #header h1 {
   margin: 0 0 10px 0;
@@ -42,10 +46,14 @@
   color: black;
 }
 
+/* Secondary Header */
+
 #header h2 {
   color: #484848;
   font-size: 24px;
 }
+
+/* Button Home */
 
 #header .btn-get-started {
   font-weight: 500;
@@ -60,11 +68,13 @@
   text-decoration: none;
 }
 
+/* Button Hover */
 #header .btn-get-started :hover {
   background: #3498db;
   color: #fff;
 }
 
+/* Header Image */
 .header-img {
   text-align: right;
 }
